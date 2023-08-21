@@ -8,4 +8,4 @@ I'm a computer science student @DMI St. John the Baptist University, currently l
 
     — Max Kanat-Alexander.
     
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-kamanga&layout=compact&theme=dracula&hide=html&langs_count=8)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-kamanga&layout=compact&theme=dracula&hide=html&langs_count=4)
