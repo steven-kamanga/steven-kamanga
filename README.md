@@ -1,7 +1,6 @@
 ## Hello! 👋
 
-
-I'm a computer science student @DMI St. John the Baptist University, currently learning Software engineering @ALX_Cohort 11. A basic dude, Not a genius...
+Check my web portfolio for a bio 🫰🏾
 
     It is more important to reduce the effort of 
     maintenance than it is to reduce the effort of implementation.
