@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-Check my web portfolio for a bio https://www.drplxrd.tech
+Check my web portfolio for a bio @https://www.drplxrd.tech
 
     It is more important to reduce the effort of 
     maintenance than it is to reduce the effort of implementation.
