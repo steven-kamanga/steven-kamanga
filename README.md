@@ -8,3 +8,4 @@ Check my web portfolio for a bio @https://www.drplxrd.tech
     — Max Kanat-Alexander.
     
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-kamanga&layout=compact&theme=dracula&hide=html&langs_count=10)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=steven-kamanga&layout=compact&theme=dracula&hide=html&langs_count=10)
